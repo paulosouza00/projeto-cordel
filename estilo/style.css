@@ -9,7 +9,7 @@
 }
 * {
     margin: 0px;
-    padding: 0px;
+    padding: 1px;
 }
 
 html body {
@@ -81,7 +81,7 @@ section#img02 {
 
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.445);
-    width: 400px;
+    max-width: 400px;
     padding: 5px;
     text-shadow: 2px 1px 0px black ;
 }
